@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-tf2-py
+Binary: ros-one-tf2-py
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.09.27
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-py - The tf2_py package
+Changes:
+ ros-one-tf2-py (0.7.6-3-gbfcd606-2023.04.27.09.27) jammy; urgency=high
+Checksums-Sha1:
+ 232f67eb155cd9ede255f389128bf7a95a0cc00c 207894 ros-one-tf2-py-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.ddeb
+ f8623f3c68a0db3579ad9695737b00a6fca548bd 12341 ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.buildinfo
+ 0894240200c8202eb35abd9199e8f0196bef8fe1 29890 ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.deb
+Checksums-Sha256:
+ 010ad78f32f1d16f7b5e7b21be020cf29eb75fb1b3bdff3f5a14338e468b16d5 207894 ros-one-tf2-py-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.ddeb
+ e9fdbe175fa8a1c529f6a83a3ddb41ce4e552236901abf53a60ca8e36a2bdf77 12341 ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.buildinfo
+ 36c2ee620aa1fa48334538e5c3893dbe0833db887e0b20a666abd7ba008747f5 29890 ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.deb
+Files:
+ c3ff060673edbdf536edc90f23f86525 207894 debug optional ros-one-tf2-py-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.ddeb
+ 89aa7daaf14222cbde27d61864205c72 12341 misc optional ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.buildinfo
+ 856d2447f5e47ecbbb57e9ed8efff424 29890 misc optional ros-one-tf2-py_0.7.6-3-gbfcd606-2023.04.27.09.27_amd64.deb

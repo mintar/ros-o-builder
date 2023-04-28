@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 23 Mar 2021 00:00:00 -0000
+Source: ros-one-wge100-camera-firmware
+Binary: ros-one-wge100-camera-firmware
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.8.5-3-gce562b5-2023.04.27.20.05
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Changed-By: Austin Hendrix <ahendrix@willowgarage.com>
+Description:
+ ros-one-wge100-camera-firmware - Source for the WGE100 Ethernet camera: Verilog source for the FPG
+Changes:
+ ros-one-wge100-camera-firmware (1.8.5-3-gce562b5-2023.04.27.20.05) jammy; urgency=high
+Checksums-Sha1:
+ c5a1dc98f87dd0268678e7a240db4a67ab473762 12632 ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.buildinfo
+ 9eb561dd83d4f0a3c22fdb55438b1ac33c6d4fa7 5132 ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.deb
+Checksums-Sha256:
+ b0ba33094eb425cd2caa5a3800a40482b5a04f0e9a63a962fc74889e793d5b16 12632 ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.buildinfo
+ 9cc6555f8545841e3a4a4f6924346c12f92825c4522ccc4ee43dd580b2b739a2 5132 ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.deb
+Files:
+ a74bec7279dcc88880f02ae3e7795557 12632 misc optional ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.buildinfo
+ 554d6dc7777b3b10b33a42f39f28eb23 5132 misc optional ros-one-wge100-camera-firmware_1.8.5-3-gce562b5-2023.04.27.20.05_amd64.deb

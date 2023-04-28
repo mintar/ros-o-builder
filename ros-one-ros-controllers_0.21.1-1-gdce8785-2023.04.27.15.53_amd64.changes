@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 31 Jan 2023 00:00:00 -0000
+Source: ros-one-ros-controllers
+Binary: ros-one-ros-controllers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.21.1-1-gdce8785-2023.04.27.15.53
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-ros-controllers - Library of ros controllers
+Changes:
+ ros-one-ros-controllers (0.21.1-1-gdce8785-2023.04.27.15.53) jammy; urgency=high
+Checksums-Sha1:
+ 34a081b6da2afa5bb28558b1739530012bed66bf 7786 ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.buildinfo
+ c772dbe820a93f07f0d11a6b26101528c879ac09 2792 ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.deb
+Checksums-Sha256:
+ 6848c533152c8ac0fd5d17f951ac1f88ac6ed278f66f6bcd7a44097dfa1e5387 7786 ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.buildinfo
+ 038093cfcae43a870c03d8933b913fdca02709e5eb5705216086a3092fdc625b 2792 ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.deb
+Files:
+ d4d58c837e8c184096078a1faf4f7577 7786 misc optional ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.buildinfo
+ e3d04b74073982578fd02694ef3cbd69 2792 misc optional ros-one-ros-controllers_0.21.1-1-gdce8785-2023.04.27.15.53_amd64.deb

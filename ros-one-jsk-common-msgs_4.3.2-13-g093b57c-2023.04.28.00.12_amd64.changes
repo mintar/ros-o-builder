@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-jsk-common-msgs
+Binary: ros-one-jsk-common-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2023.04.28.00.12
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-common-msgs - Metapackage that contains commonly used messages for jsk-ros-pkg
+Changes:
+ ros-one-jsk-common-msgs (4.3.2-13-g093b57c-2023.04.28.00.12) jammy; urgency=high
+Checksums-Sha1:
+ 6791fe072da6eb4bbba212f979c70572f3e8bc0a 7786 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.buildinfo
+ f9514f44a2e6e70df269fc3dfacbf3fa4d232baa 2330 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.deb
+Checksums-Sha256:
+ 1484ec9fa2df92ef96c18a19876990e57c32c23c77c9026e72a50bd9d5a6b35b 7786 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.buildinfo
+ 0c27fcd0a7a5ddc9456b8149d1b7d9842e5a702f392536f1f455f285de99111b 2330 ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.deb
+Files:
+ da56493f82c8ca169df9638566e3db01 7786 misc optional ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.buildinfo
+ ae5d210484926f66c432f00f758502c1 2330 misc optional ros-one-jsk-common-msgs_4.3.2-13-g093b57c-2023.04.28.00.12_amd64.deb

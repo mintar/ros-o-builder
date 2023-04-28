@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 17 Feb 2022 00:00:00 -0000
+Source: ros-one-joint-state-publisher-gui
+Binary: ros-one-joint-state-publisher-gui
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.1-1-gc3e2ad2-2023.04.27.10.30
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Changed-By: Chris Lalancette <clalancette@osrfoundation.org>
+Description:
+ ros-one-joint-state-publisher-gui - This package contains a GUI tool for setting and publishing joint
+Changes:
+ ros-one-joint-state-publisher-gui (1.15.1-1-gc3e2ad2-2023.04.27.10.30) jammy; urgency=high
+ .
+   * Use setuptools instead of distutils (#45 <https://github.com/ros/joint_state_publisher/issues/45>)
+   * Contributors: Shane Loretz
+Checksums-Sha1:
+ 53313575cd48d61448db4c72de1e08c0df4a82a2 7839 ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.buildinfo
+ 759aead3b0774c93a07d62c4d679e6d2c2768770 13018 ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.deb
+Checksums-Sha256:
+ dd085b47d8e7ed154f758f4f54599f58053e5ee6f791d9390919bf6c27495612 7839 ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.buildinfo
+ e292ac0355c0749450e905a9a31f2ad2b4167edd914d9b2081f0262bb27a6cad 13018 ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.deb
+Files:
+ fdd4fa5cb08592db0aa6a307f9fd03a1 7839 misc optional ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.buildinfo
+ bd612b73d967f77dba5ddbd5a487049a 13018 misc optional ros-one-joint-state-publisher-gui_1.15.1-1-gc3e2ad2-2023.04.27.10.30_amd64.deb

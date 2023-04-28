@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-updater
+Binary: ros-one-diagnostic-updater
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2023.04.27.09.02
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-updater - diagnostic_updater contains tools for easily updating diagnostics
+Changes:
+ ros-one-diagnostic-updater (1.11.0-7-gda86650-2023.04.27.09.02) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Contributors: Amilcar Lucas
+Checksums-Sha1:
+ 913bb02dcaa78c479fbfada1bd677da905565f4b 328094 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2023.04.27.09.02_amd64.ddeb
+ 1228ba1397b446b683b7508a316c6780d9342a53 12967 ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.buildinfo
+ eb1067c55ebbe377a9cac34c023a9dbec58776e3 53754 ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.deb
+Checksums-Sha256:
+ 082238c64c050b082265b583e16b1825bd36e12317b1e1efa7bd56823e192850 328094 ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2023.04.27.09.02_amd64.ddeb
+ 46bafa5f17a6ff6bd8d66dadb7465ee5e444ff42016b28e4c743249b04793e48 12967 ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.buildinfo
+ 0c0191941ffbc74d62478052f6d6762e910c8d5efe8f7adb4a84c0fe74748075 53754 ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.deb
+Files:
+ d9d9d58f7ebf5d6d1ed65948b70b63f1 328094 debug optional ros-one-diagnostic-updater-dbgsym_1.11.0-7-gda86650-2023.04.27.09.02_amd64.ddeb
+ 9661f767d3d6d0b920fd86cb473eb968 12967 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.buildinfo
+ a39994311cbdc3a45c2913f7e3746480 53754 misc optional ros-one-diagnostic-updater_1.11.0-7-gda86650-2023.04.27.09.02_amd64.deb

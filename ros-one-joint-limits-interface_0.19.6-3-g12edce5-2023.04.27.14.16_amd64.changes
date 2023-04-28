@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 21 Oct 2022 00:00:00 -0000
+Source: ros-one-joint-limits-interface
+Binary: ros-one-joint-limits-interface
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.19.6-3-g12edce5-2023.04.27.14.16
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-joint-limits-interface - Interface for enforcing joint limits.
+Changes:
+ ros-one-joint-limits-interface (0.19.6-3-g12edce5-2023.04.27.14.16) jammy; urgency=high
+Checksums-Sha1:
+ d70c39bbbe582283437f5796014250a3fb4b9228 14172 ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.buildinfo
+ d709e0ff7809ec8fe81ef989da39f7f15cb84216 14528 ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.deb
+Checksums-Sha256:
+ 81db138cfac6f2bb930880d363d1165707818c6a59caee7153ab9ac692252741 14172 ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.buildinfo
+ e43ebfe9344fe9b2964970fc82f025760ff0ecaa16c214ad16753a2a0f9462da 14528 ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.deb
+Files:
+ b154b88a552b1fd359cd39c7191dd772 14172 misc optional ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.buildinfo
+ 5f566155cfe8f66300f77e6d3b959829 14528 misc optional ros-one-joint-limits-interface_0.19.6-3-g12edce5-2023.04.27.14.16_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 06 Jan 2022 00:00:00 -0000
+Source: ros-one-roscpp
+Binary: ros-one-roscpp
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.14-5-g6ad0b2bf6-2023.04.27.08.54
+Distribution: jammy
+Urgency: high
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Changed-By: Jacob Perron <jacob@openrobotics.org>
+Description:
+ ros-one-roscpp - roscpp is a C++ implementation of ROS.
+Changes:
+ ros-one-roscpp (1.15.14-5-g6ad0b2bf6-2023.04.27.08.54) jammy; urgency=high
+ .
+   * Use recursive mutex to fix dead lock (#2209 <https://github.com/ros/ros_comm/issues/2209>)
+   * Contributors: Chen Lihui
+Checksums-Sha1:
+ 33ec63be03187a6198b256b3fee43e0e0a4fb225 9148914 ros-one-roscpp-dbgsym_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.ddeb
+ 5d52421614bdf8a5bdfc3012468c4e06068b3690 10859 ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.buildinfo
+ 093cbddc37e271add4c5519c48178faf8849d662 438216 ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.deb
+Checksums-Sha256:
+ d67501529ee8a33e75d23090511b820f9738d81e23b5bbeb5382dfefdbc28112 9148914 ros-one-roscpp-dbgsym_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.ddeb
+ be2b90c498793def03198c70b22d141dedab53ab72431a2bd3e2486c6c2123f3 10859 ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.buildinfo
+ 49f3c5a1190434978994f2b0c187a4a2ec59b9d0a6d536649a3eeb403fb51017 438216 ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.deb
+Files:
+ c122a8b1e7d4480b2e3897b300d785df 9148914 debug optional ros-one-roscpp-dbgsym_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.ddeb
+ 8586b33d2e5fadadf3667fc410133e95 10859 misc optional ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.buildinfo
+ 034689ccc94226cc467ac663b5c617c6 438216 misc optional ros-one-roscpp_1.15.14-5-g6ad0b2bf6-2023.04.27.08.54_amd64.deb

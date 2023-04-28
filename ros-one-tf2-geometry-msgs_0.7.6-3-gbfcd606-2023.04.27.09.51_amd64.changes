@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-tf2-geometry-msgs
+Binary: ros-one-tf2-geometry-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.09.51
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-geometry-msgs - tf2_geometry_msgs
+Changes:
+ ros-one-tf2-geometry-msgs (0.7.6-3-gbfcd606-2023.04.27.09.51) jammy; urgency=high
+ .
+   * remove method with misleading doc (#534 <https://github.com/ros/geometry2/issues/534>)
+   * Contributors: Wellington Castro
+Checksums-Sha1:
+ 23be94ac0f76913ff7fbecf7d533d8aa2cce78df 13137 ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.buildinfo
+ 27f52211f781be53a6b65935b8711c819d5e3592 14858 ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.deb
+Checksums-Sha256:
+ 50d7f79337ff7a774c82211d2e1a0b137f3996421b891ae0f07ba99b026448b1 13137 ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.buildinfo
+ 4bd4218a4a52fd85775b8fae69de6da7b2f5641c2eea3a7065df6e24b6417f43 14858 ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.deb
+Files:
+ e3612c0514b2f18ccb063ff4c86f8e23 13137 misc optional ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.buildinfo
+ 9aeb071ca9f5be8758a41ef70ae8496d 14858 misc optional ros-one-tf2-geometry-msgs_0.7.6-3-gbfcd606-2023.04.27.09.51_amd64.deb

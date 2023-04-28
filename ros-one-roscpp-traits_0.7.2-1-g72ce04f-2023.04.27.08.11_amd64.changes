@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Thu, 28 May 2020 00:00:00 -0000
+Source: ros-one-roscpp-traits
+Binary: ros-one-roscpp-traits
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.2-1-g72ce04f-2023.04.27.08.11
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-roscpp-traits - roscpp_traits contains the message traits code as described in Me
+Changes:
+ ros-one-roscpp-traits (0.7.2-1-g72ce04f-2023.04.27.08.11) jammy; urgency=high
+Checksums-Sha1:
+ 598055a6c1a2a9638568f4965860e5cdf43360e5 7775 ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.buildinfo
+ fb8d2355c08074382fb2db73f1fbaba6992a5e5d 10392 ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.deb
+Checksums-Sha256:
+ 3e357d7ac7b308318a122d1deb43504cb4a1ba442f3f767fdf4b8b4b0cdf1ef7 7775 ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.buildinfo
+ 721a645df76d1be714764173c35e8a9c6bb2c7b54c7859b5b0ec0290b24ce317 10392 ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.deb
+Files:
+ 57b09d2773d8a7a2c13a63ec0f39cd33 7775 misc optional ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.buildinfo
+ 261dead838c4f913a798b7c7450c5f24 10392 misc optional ros-one-roscpp-traits_0.7.2-1-g72ce04f-2023.04.27.08.11_amd64.deb

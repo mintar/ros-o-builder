@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 23 Apr 2020 00:00:00 -0000
+Source: ros-one-octomap-ros
+Binary: ros-one-octomap-ros
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.1-3-g8816e50-2023.04.27.22.03
+Distribution: jammy
+Urgency: high
+Maintainer: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Changed-By: Wolfgang Merkt <opensource@wolfgangmerkt.com>
+Description:
+ ros-one-octomap-ros - octomap_ros provides conversion functions between ROS and OctoMap
+Changes:
+ ros-one-octomap-ros (0.4.1-3-g8816e50-2023.04.27.22.03) jammy; urgency=high
+ .
+   * Added archive destination for static libraries (#10 <https://github.com/OctoMap/octomap_ros/issues/10>)
+   * Fix catkin_lint issues and cmake policy CMP0038 (#9 <https://github.com/OctoMap/octomap_ros/issues/9>)
+   * Update maintainer emails
+   * Contributors: Andrea Ponza, Armin Hornung, Sebastian Kasperski, Wolfgang Merkt
+Checksums-Sha1:
+ f315c72998ceffabcf379df63fe7b580f87e8f5e 91246 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.ddeb
+ ade79ecc7eb8fe01bbb4c3ca73746e9aa6984c31 17892 ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.buildinfo
+ 02388a1f9ffaa371ceecde8de49645bd186c145e 12462 ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.deb
+Checksums-Sha256:
+ 9190d630cdfdbb942a72747db03939265b8334ec047f7aceba0dd78fe7fcd571 91246 ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.ddeb
+ 4de100bb7eae9e246244d1f04746b3c0affdbbc0221589ebc9554af0289d12a6 17892 ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.buildinfo
+ 289dfe6013b084f687b5b4e1228824b362f1c0fbd22d91807d973944066e2b6d 12462 ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.deb
+Files:
+ 5de9bd6b6bb4b986b994a5303593ab99 91246 debug optional ros-one-octomap-ros-dbgsym_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.ddeb
+ bd8fb8bbf49f3a1e5672c9e1d06a2d2b 17892 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.buildinfo
+ 889f7ee423085a7fbc434bfe7f9baf72 12462 misc optional ros-one-octomap-ros_0.4.1-3-g8816e50-2023.04.27.22.03_amd64.deb

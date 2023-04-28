@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-single-joint-position-action
+Binary: ros-one-single-joint-position-action
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2023.04.27.19.47
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-single-joint-position-action - The single joint position action is a node that provides an actio
+Changes:
+ ros-one-single-joint-position-action (1.10.18-3-g8e8dfa0-2023.04.27.19.47) jammy; urgency=high
+Checksums-Sha1:
+ 250e8635e157475d0494aee02aebbda2108d5859 933252 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.ddeb
+ 83e159c8eec66c2f87479bb8adcf4c44959e6e85 13404 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.buildinfo
+ 6865672673ccc3c13239dc811d830221429c8243 82552 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.deb
+Checksums-Sha256:
+ 4df525e7312eb99e0ab923eadce9dc55de43424953e24bdc406ac701eb87175f 933252 ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.ddeb
+ a02935dad440f6e7d8b044ed23174a77902736cfe4ab135a72185e00651d0cb7 13404 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.buildinfo
+ c4b46041756017187a10f55e6284b8a9a30fd1eacb9c2dec3374aecc7012acb0 82552 ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.deb
+Files:
+ 433723779d2a4c7ec3e591abbcba7f63 933252 debug optional ros-one-single-joint-position-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.ddeb
+ 4ee9d8a83862163936561ddc4d9f4025 13404 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.buildinfo
+ c55d97555a8efa79c997899721d6c336 82552 misc optional ros-one-single-joint-position-action_1.10.18-3-g8e8dfa0-2023.04.27.19.47_amd64.deb

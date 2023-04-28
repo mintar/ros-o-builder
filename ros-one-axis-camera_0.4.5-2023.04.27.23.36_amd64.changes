@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 30 Mar 2023 00:00:00 -0000
+Source: ros-one-axis-camera
+Binary: ros-one-axis-camera
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.5-2023.04.27.23.36
+Distribution: jammy
+Urgency: high
+Maintainer: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Changed-By: Chris Iverach-Brereton <civerachb@clearpathrobotics.com>
+Description:
+ ros-one-axis-camera - Python ROS drivers for accessing an Axis camera's MJPG stream.
+Changes:
+ ros-one-axis-camera (0.4.5-2023.04.27.23.36) jammy; urgency=high
+ .
+   * Enable digest authentication by default
+   * Contributors: Chris Iverach-Brereton
+Checksums-Sha1:
+ 8b105a4464d85473abb249d904e9e0d67db5dc4b 17364 ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.buildinfo
+ 39d14664ec4454771ea801edbaa80cf75c8f5a57 31794 ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.deb
+Checksums-Sha256:
+ 6a3858923cda83b6f53ab3378f059e6023ae836a0b7ac94fa965e4b7fa0860a0 17364 ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.buildinfo
+ 195b55163852165683eb628f00ca8dc6650cf4d9c7a87f132dfeafb3eb3fcc95 31794 ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.deb
+Files:
+ 3aa991f98ccecae947670d572fdefdc2 17364 misc optional ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.buildinfo
+ d2630cc662b32bf381de5d672e5923eb 31794 misc optional ros-one-axis-camera_0.4.5-2023.04.27.23.36_amd64.deb

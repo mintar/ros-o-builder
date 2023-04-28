@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-rotate-recovery
+Binary: ros-one-rotate-recovery
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.17.3-3-g9ad64419-2023.04.27.23.18
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-rotate-recovery - This package provides a recovery behavior for the navigation stac
+Changes:
+ ros-one-rotate-recovery (1.17.3-3-g9ad64419-2023.04.27.23.18) jammy; urgency=high
+ .
+   * [ROS-O] various patches (#1225 <https://github.com/ros-planning/navigation/issues/1225>)
+     * do not specify obsolete c++11 standard
+     this breaks with current versions of log4cxx.
+     * update pluginlib include paths
+     the non-hpp headers have been deprecated since kinetic
+     * use lambdas in favor of boost::bind
+     Using boost's _1 as a global system is deprecated since C++11.
+     The ROS packages in Debian removed the implicit support for the global symbols,
+     so this code fails to compile there without the patch.
+   * Contributors: Michael Görner
+Checksums-Sha1:
+ 86efb2f7a5f810061ac4fb2668ac2e4f312bb33a 606034 ros-one-rotate-recovery-dbgsym_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.ddeb
+ 0eeac117e8a05636b29172243f36a3a469760de9 23257 ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.buildinfo
+ 261ca0de08893a7e4a9885deac73afe0e5f7a576 38640 ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.deb
+Checksums-Sha256:
+ 7154be1b2faa179241231aebd2449b5a6b827fd8b0c32db6aad71ee19e5214fb 606034 ros-one-rotate-recovery-dbgsym_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.ddeb
+ a3b8e6d9d509a23fad3014e81f8580842959aab09afb9d6d48d7c03321699db5 23257 ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.buildinfo
+ 397e321d9c08b7591db4e03115b9b8f08beb7ba6232e64936465f94586a8c2b3 38640 ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.deb
+Files:
+ b68a23bb29fd0a172e7b0fe7c06b3f7c 606034 debug optional ros-one-rotate-recovery-dbgsym_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.ddeb
+ 1225d16e528559ab4c2b5525627b1068 23257 misc optional ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.buildinfo
+ 224d62fcd0965ac55b998f5c5f82d39c 38640 misc optional ros-one-rotate-recovery_1.17.3-3-g9ad64419-2023.04.27.23.18_amd64.deb

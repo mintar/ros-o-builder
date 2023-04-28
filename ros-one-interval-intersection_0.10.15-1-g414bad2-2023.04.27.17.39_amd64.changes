@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-interval-intersection
+Binary: ros-one-interval-intersection
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.10.15-1-g414bad2-2023.04.27.17.39
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-interval-intersection - Tools for calculating the intersection of interval messages comin
+Changes:
+ ros-one-interval-intersection (0.10.15-1-g414bad2-2023.04.27.17.39) jammy; urgency=high
+ .
+   * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+     Noetic devel
+   * fixes for compiler warnings CMP0048 and CMP0046
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Merge pull request #41 <https://github.com/ros-perception/calibration/issues/41> from Hodorgasm/hydro
+     Fix "stdlib.h: No such file or directory" errors in GCC-6
+   * Fix "stdlib.h: No such file or directory" errors in GCC-6
+     Including '-isystem /usr/include' breaks building with GCC-6.
+     See https://gcc.gnu.org/bugzilla/show_bug.cgi?id=70129
+   * Contributors: Dave Feil-Seifer, Hodorgasm, Vincent Rabaud
+Checksums-Sha1:
+ d66572de7d5cc2eaf37708110bb9a357d68e769b 1496470 ros-one-interval-intersection-dbgsym_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.ddeb
+ fe229102519e3ef48f2e63092414205020f1da04 18295 ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.buildinfo
+ d9b07d2fd373961c91a2e63fe61e556e6a4e188d 137432 ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.deb
+Checksums-Sha256:
+ 1282081d3e0685e0171e51074100d7797b07313774b11c3f54ce01f1264d6690 1496470 ros-one-interval-intersection-dbgsym_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.ddeb
+ 1ade08b88aed0fecafc415949b3bcc941a1657b1fceef8d38bc4f0d921bc991f 18295 ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.buildinfo
+ d7901dd9ff55103239ae347ef9c20f52c6dd88e8bb2bac6fad3aec83b83c8662 137432 ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.deb
+Files:
+ 64940849f26b6979dc83adf43bef2f9d 1496470 debug optional ros-one-interval-intersection-dbgsym_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.ddeb
+ e0786f4d94656c116e14efa8d89b8848 18295 misc optional ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.buildinfo
+ e9bce125c6f61eb8d1da4217cf150c10 137432 misc optional ros-one-interval-intersection_0.10.15-1-g414bad2-2023.04.27.17.39_amd64.deb

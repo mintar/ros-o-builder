@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 31 Dec 2021 00:00:00 -0000
+Source: ros-one-diagnostic-aggregator
+Binary: ros-one-diagnostic-aggregator
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.11.0-7-gda86650-2023.04.27.09.00
+Distribution: jammy
+Urgency: high
+Maintainer: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Changed-By: Guglielmo Gemignani <guglielmo.gemignani@gmail.com>
+Description:
+ ros-one-diagnostic-aggregator - diagnostic_aggregator
+Changes:
+ ros-one-diagnostic-aggregator (1.11.0-7-gda86650-2023.04.27.09.00) jammy; urgency=high
+ .
+   * Use DiagnosticLevel enum instead of hardcoded integers (#208 <https://github.com/ros/diagnostics/issues/208>)
+     Spellcheck fixes
+   * Add install command for demo in CMakeLists
+   * Contributors: Amilcar Lucas, gemignani
+Checksums-Sha1:
+ a731c1d3b7716eaee08181ca400774840313b958 3664242 ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2023.04.27.09.00_amd64.ddeb
+ 3322a502a7818489876048fa353232d2d1809966 14437 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.buildinfo
+ 94297ca03e47577a26e3d106bd504b071c2d6a85 269760 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.deb
+Checksums-Sha256:
+ 41ba373c813ac28326e30e4f3542102417f19530d47fcf348b8107152bb00d39 3664242 ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2023.04.27.09.00_amd64.ddeb
+ df4a580878134051944babc860d3f7af266f7057851ae14441f6f8dd69098356 14437 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.buildinfo
+ dbc429a6f85ed623955c6da214bce13826bfe33ea0fde555ac959cd648af1f0a 269760 ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.deb
+Files:
+ 7a1436d16a5ea7b19ae041efe9e966b1 3664242 debug optional ros-one-diagnostic-aggregator-dbgsym_1.11.0-7-gda86650-2023.04.27.09.00_amd64.ddeb
+ 997b5c381a9a38b8f946f8dfab5ec287 14437 misc optional ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.buildinfo
+ ea4b37bec4fba7e8c7b58c3a6c1f3c8d 269760 misc optional ros-one-diagnostic-aggregator_1.11.0-7-gda86650-2023.04.27.09.00_amd64.deb

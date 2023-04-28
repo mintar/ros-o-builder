@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-test-tf2
+Binary: ros-one-test-tf2
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.09.54
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-test-tf2 - tf2 unit tests
+Changes:
+ ros-one-test-tf2 (0.7.6-3-gbfcd606-2023.04.27.09.54) jammy; urgency=high
+ .
+   * Switch to new boost/bind/bind.hpp (#528 <https://github.com/ros/geometry2/issues/528>)
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 423e25f02c173aff9fef308cc026fed262cc5d59 13462 ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.buildinfo
+ a537845d4ac79ca3f5423ad673e8ccf7997f65df 8770 ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.deb
+Checksums-Sha256:
+ 520f7fa65974bbfa75e7b55c411de4fa84006db0ee53fa26aff9edbd6070d9b4 13462 ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.buildinfo
+ 1c76cffc0ddcadb2dafb639e52ddfceab073b6367ec07d14186e8a510f67ceb6 8770 ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.deb
+Files:
+ 370160e10e8f2b6efcb3650b274ac717 13462 misc optional ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.buildinfo
+ 6ff45e9e39b120a1043cf14e85affe46 8770 misc optional ros-one-test-tf2_0.7.6-3-gbfcd606-2023.04.27.09.54_amd64.deb

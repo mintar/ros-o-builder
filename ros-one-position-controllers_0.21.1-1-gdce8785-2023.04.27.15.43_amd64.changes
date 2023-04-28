@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 31 Jan 2023 00:00:00 -0000
+Source: ros-one-position-controllers
+Binary: ros-one-position-controllers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.21.1-1-gdce8785-2023.04.27.15.43
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-position-controllers - position_controllers
+Changes:
+ ros-one-position-controllers (0.21.1-1-gdce8785-2023.04.27.15.43) jammy; urgency=high
+ .
+   * Don't hardcode plugin library path
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 24adeeddfe5aaae1fd46fa45e5e4eda6be7c1d97 816010 ros-one-position-controllers-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.ddeb
+ ae7889c4f7814190b7970435500e9702005fb530 14539 ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.buildinfo
+ 5c81935448b91edeb45b31d2bc2ecb799892d1a2 52866 ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.deb
+Checksums-Sha256:
+ 3be17b0032654f9953518200785a94ebb59f94fbb897c516b6b0856f9a58a81c 816010 ros-one-position-controllers-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.ddeb
+ f1369e0aadff1cf869dae1f71e8cf52fe01f0411db467f24ca602e12d493ca73 14539 ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.buildinfo
+ 06fb95545d5da789e203975f40f7adbd1080314599d651260949f1fefac2bb1e 52866 ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.deb
+Files:
+ d489c7d6dbc9413676449112f0d913cf 816010 debug optional ros-one-position-controllers-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.ddeb
+ 2ce0c10292d3993a9e10c8990ec75ddd 14539 misc optional ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.buildinfo
+ 9b21ef4ca8087e5609be7ab4e7669f9b 52866 misc optional ros-one-position-controllers_0.21.1-1-gdce8785-2023.04.27.15.43_amd64.deb

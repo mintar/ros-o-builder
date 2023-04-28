@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 28 May 2020 00:00:00 -0000
+Source: ros-one-cpp-common
+Binary: ros-one-cpp-common
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.2-1-g72ce04f-2023.04.27.08.00
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-cpp-common - cpp_common contains C++ code for doing things that are not necess
+Changes:
+ ros-one-cpp-common (0.7.2-1-g72ce04f-2023.04.27.08.00) jammy; urgency=high
+Checksums-Sha1:
+ c6d03337d18272e253cd2ea5dd66bcb70c06ad54 137156 ros-one-cpp-common-dbgsym_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.ddeb
+ f19268cabb5762cf1e0e35f5fc8835bbed638a30 8941 ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.buildinfo
+ 06a0fa7dd03ff936824857f473dd2cd488a251b7 21532 ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.deb
+Checksums-Sha256:
+ f44e1d0604069598cfcb5d345c3a5b4b2f994df9e1b2ee69e362a7b1a43cb4c6 137156 ros-one-cpp-common-dbgsym_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.ddeb
+ bf224cc05117155f8c9447358ee0f3f6f3af7987192f4f9ff9c99391cf2b7a5f 8941 ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.buildinfo
+ 8fe952032d3a650948af499157205b9959adeaf77ec627cde1abc63548305414 21532 ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.deb
+Files:
+ 4347b5556c22db0e968294b40baaecbd 137156 debug optional ros-one-cpp-common-dbgsym_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.ddeb
+ f075b1c00e02989c3aa6d23f93baf2f4 8941 misc optional ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.buildinfo
+ aa58b4151aa6b2f428203336c32df4e7 21532 misc optional ros-one-cpp-common_0.7.2-1-g72ce04f-2023.04.27.08.00_amd64.deb

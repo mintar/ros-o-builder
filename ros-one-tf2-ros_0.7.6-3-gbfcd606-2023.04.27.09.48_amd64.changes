@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-tf2-ros
+Binary: ros-one-tf2-ros
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.09.48
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-tf2-ros - This package contains the ROS bindings for the tf2 library, for b
+Changes:
+ ros-one-tf2-ros (0.7.6-3-gbfcd606-2023.04.27.09.48) jammy; urgency=high
+ .
+   * tf2_ros polling interval proportional to timeout (#492 <https://github.com/ros/geometry2/issues/492>)
+     * polling interval proportional to timeout
+     * CAN_TRANSFORM_POLLING_SCALE as global
+     * add DEFAULT_CAN_TRANSFORM_POLLING_SCALE
+   * Removed print statements from buffer interface (#530 <https://github.com/ros/geometry2/issues/530>)
+   * Switch to new boost/bind/bind.hpp (#528 <https://github.com/ros/geometry2/issues/528>)
+   * Updating the documentation to reflect current constructor for a MessageFilter (#527 <https://github.com/ros/geometry2/issues/527>)
+   * (tf2_ros) Docs working on python 3 (#521 <https://github.com/ros/geometry2/issues/521>)
+   * Mitigate flakey test in tf2_ros (#490 <https://github.com/ros/geometry2/issues/490>)
+   * Contributors: Atsushi Watanabe, Janno Lunenburg, Jochen Sprickerhof, Matthijs van der Burgh, Shih-Wei Guo, Tassos Natsakis
+Checksums-Sha1:
+ 98ad0b69a96fd97f967ab5aac2c76d662a82797a 3148306 ros-one-tf2-ros-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.ddeb
+ 121fd0d68ff0d1c5b49fa60a90441a47ad8008ab 13244 ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.buildinfo
+ 3c18d3f9351d451037ba7d2915193de17e1d733e 218630 ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.deb
+Checksums-Sha256:
+ 873034c1deaa2561224f248f4dc7dd04344cb2b3ff7841f13608136b51ab3fd2 3148306 ros-one-tf2-ros-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.ddeb
+ 1c642ed4fdc368a80b8561047a146c1164ad972174572a1be7615ce6390e2f5b 13244 ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.buildinfo
+ 0ff9c9954ca4f0139b37d5c29c319cce9dcddf185aa0ad1e20aa4f4de2255ffa 218630 ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.deb
+Files:
+ 3ba55f38a7c3847dc8957dc9319e1f7c 3148306 debug optional ros-one-tf2-ros-dbgsym_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.ddeb
+ 4e32b65158a13069160f1502cc2d15a8 13244 misc optional ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.buildinfo
+ 70741dca9e232992cbd1975ec96c30d0 218630 misc optional ros-one-tf2-ros_0.7.6-3-gbfcd606-2023.04.27.09.48_amd64.deb

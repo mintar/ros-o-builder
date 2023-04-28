@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 29 Oct 2020 00:00:00 -0000
+Source: ros-one-code-coverage
+Binary: ros-one-code-coverage
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.4-4-g65598ec-2023.04.27.12.53
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Ferguson <mike@vanadiumlabs.com>
+Changed-By: Michael Ferguson <mike@vanadiumlabs.com>
+Description:
+ ros-one-code-coverage - CMake configuration to run coverage
+Changes:
+ ros-one-code-coverage (0.4.4-4-g65598ec-2023.04.27.12.53) jammy; urgency=high
+ .
+   * Added python3-coverage support and error if python*-coverage is missing. (#27 <https://github.com/mikeferguson/code_coverage/issues/27>)
+   * Contributors: Stefan Fabian
+Checksums-Sha1:
+ 89b2402d0aa9264cc689cba50c01a5314772e8b5 7899 ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.buildinfo
+ 7cb09f37794e67a4d9a4c44a03b578654c3d550f 9096 ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.deb
+Checksums-Sha256:
+ 86b60dd99f550ad50032aaeebcf7c81d49ddd27f4c9321979472ee6f0ad6cf82 7899 ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.buildinfo
+ 49c1bc1499285006258f212a549252f82231db286f504c04a1875bd05870ce99 9096 ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.deb
+Files:
+ 18ea9818b36da46fc775ad7177666554 7899 misc optional ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.buildinfo
+ 12b1fc9c452018b48575bb731375a5f9 9096 misc optional ros-one-code-coverage_0.4.4-4-g65598ec-2023.04.27.12.53_amd64.deb

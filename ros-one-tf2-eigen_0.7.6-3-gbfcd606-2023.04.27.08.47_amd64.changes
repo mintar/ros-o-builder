@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-tf2-eigen
+Binary: ros-one-tf2-eigen
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.08.47
+Distribution: jammy
+Urgency: high
+Maintainer: Koji Terada <terakoji@gmail.com>
+Changed-By: Koji Terada <terakoji@gmail.com>
+Description:
+ ros-one-tf2-eigen - tf2_eigen
+Changes:
+ ros-one-tf2-eigen (0.7.6-3-gbfcd606-2023.04.27.08.47) jammy; urgency=high
+Checksums-Sha1:
+ acdb4cfceb84110f68a7578202093fdf5f1b0dd7 9681 ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.buildinfo
+ d04995a0333e7862fde49352c05603c9c093c57d 9530 ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.deb
+Checksums-Sha256:
+ 09d90504af819ebfe1ec8d28101e2d53101bef7d412879cda62cbd07e66a090e 9681 ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.buildinfo
+ 3b4c1777a0bb4d2cc9e7deebc6adb6a45757698b99a4bfef13b924acbacf72f1 9530 ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.deb
+Files:
+ 1c4c188835742bb281bc104aad477174 9681 misc optional ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.buildinfo
+ 4f1714bb21df41448aad2d4604ea76dd 9530 misc optional ros-one-tf2-eigen_0.7.6-3-gbfcd606-2023.04.27.08.47_amd64.deb

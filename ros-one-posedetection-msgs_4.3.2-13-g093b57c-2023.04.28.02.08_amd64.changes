@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 03 May 2020 00:00:00 -0000
+Source: ros-one-posedetection-msgs
+Binary: ros-one-posedetection-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 4.3.2-13-g093b57c-2023.04.28.02.08
+Distribution: jammy
+Urgency: high
+Maintainer: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Changed-By: Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-posedetection-msgs - posedetection_msgs provides messages and services to facilitate p
+Changes:
+ ros-one-posedetection-msgs (4.3.2-13-g093b57c-2023.04.28.02.08) jammy; urgency=high
+ .
+   * fix for noetic, need to use OpenCV2 instead of OpenCV (#26 <https://github.com/jsk-ros-pkg/jsk_common_msgs/issues/26>)
+ .
+       * add noetic test to travis.yml, update jsk_travis 0.5.10
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 23571d893ce57f0e5d1baeebeb03aa75d958ba51 1335068 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.ddeb
+ 879d2609946e21ca94b5771a189ab01b10ddfc9f 26656 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.buildinfo
+ 2e1bf06935192f4d0b9c8f510f3b4795ad0fb263 129320 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.deb
+Checksums-Sha256:
+ 8bc66321d89133d8584329b13403ff56599c57a795de86a98e8b4a70994c305c 1335068 ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.ddeb
+ 3985c8c5d9fc986e18eafe08f68db23d6a8089845e39da6cbeffecd2d5af58cd 26656 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.buildinfo
+ 118cc0c3ba9e881b371fb5c06c7f0fb3417dcf4c96fad6bbf1210d2cb1328ad6 129320 ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.deb
+Files:
+ 229e826fa460083ec9840a9a547248f2 1335068 debug optional ros-one-posedetection-msgs-dbgsym_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.ddeb
+ 508c4511cf185d6e50445f03b3139915 26656 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.buildinfo
+ aa7c50537b35f909039bf42979fbe66b 129320 misc optional ros-one-posedetection-msgs_4.3.2-13-g093b57c-2023.04.28.02.08_amd64.deb

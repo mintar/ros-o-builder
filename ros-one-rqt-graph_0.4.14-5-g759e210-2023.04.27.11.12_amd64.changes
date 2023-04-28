@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 22 May 2020 00:00:00 -0000
+Source: ros-one-rqt-graph
+Binary: ros-one-rqt-graph
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.14-5-g759e210-2023.04.27.11.12
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Jeronimo <michael.jeronimo@openrobotics.org>
+Changed-By: Michael Jeronimo <michael.jeronimo@openrobotics.org>
+Description:
+ ros-one-rqt-graph - rqt_graph provides a GUI plugin for visualizing the ROS computati
+Changes:
+ ros-one-rqt-graph (0.4.14-5-g759e210-2023.04.27.11.12) jammy; urgency=high
+ .
+   * readd rqt_graph global executable, regression from 0.4.13 (#45 <https://github.com/ros-visualization/rqt_graph/issues/45>)
+Checksums-Sha1:
+ 7588e14de776b9c22023a555e1c947b4643156f9 7759 ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.buildinfo
+ d115d895652690dbc98c4c55419872ff87903f5b 34542 ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.deb
+Checksums-Sha256:
+ 56d2d005af529f7a59330280dfc6835c22a349ba1b7d682fa771d3d885f9eb67 7759 ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.buildinfo
+ 070aa21c6b623418e451da58577a2bfdbb58423211a5482da438f21d55929b03 34542 ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.deb
+Files:
+ c58f4f0eb46fcb28e0272f26ec4100f7 7759 misc optional ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.buildinfo
+ cec2594f61535c573a25068002b12ce1 34542 misc optional ros-one-rqt-graph_0.4.14-5-g759e210-2023.04.27.11.12_amd64.deb

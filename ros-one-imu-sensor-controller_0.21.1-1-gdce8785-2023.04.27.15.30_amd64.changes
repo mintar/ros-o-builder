@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 31 Jan 2023 00:00:00 -0000
+Source: ros-one-imu-sensor-controller
+Binary: ros-one-imu-sensor-controller
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.21.1-1-gdce8785-2023.04.27.15.30
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-imu-sensor-controller - Controller to publish state of IMU sensors
+Changes:
+ ros-one-imu-sensor-controller (0.21.1-1-gdce8785-2023.04.27.15.30) jammy; urgency=high
+ .
+   * Don't hardcode plugin library path
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 66ba12f4e8ed8e4f7071bcb9a3c2d2f27b981379 549006 ros-one-imu-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.ddeb
+ 13d9698b85b818b119431fcdb1112d718153ccda 14574 ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.buildinfo
+ 493cb1c51b0940fe2000696619b755c5b9e988fe 45220 ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.deb
+Checksums-Sha256:
+ 85e71dbaa894277db668c47f73f4f4984ae5474b4f4d73e1d896c9ad9edc5095 549006 ros-one-imu-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.ddeb
+ 45a0f4f5010052b6dba045d9d0abdeba8db56c6a8ba9f6b8e4c1509ef54c89eb 14574 ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.buildinfo
+ 647323ba03888bd49a1e4fc0047e767ff2e9d4226e386616edbff82386b4d109 45220 ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.deb
+Files:
+ cf0692bcdd0223751fe113f439f6abed 549006 debug optional ros-one-imu-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.ddeb
+ 65c726245b531c4afc3af59435fcd3c8 14574 misc optional ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.buildinfo
+ ad1d4bca3b588f4fba2f3f59f9bf9cab 45220 misc optional ros-one-imu-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.30_amd64.deb

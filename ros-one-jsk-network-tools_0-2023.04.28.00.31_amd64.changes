@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 07 Jun 2022 00:00:00 -0000
+Source: ros-one-jsk-network-tools
+Binary: ros-one-jsk-network-tools
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0-2023.04.28.00.31
+Distribution: jammy
+Urgency: high
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Changed-By: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Description:
+ ros-one-jsk-network-tools - jsk_network_tools
+Changes:
+ ros-one-jsk-network-tools (0-2023.04.28.00.31) jammy; urgency=high
+ .
+   * add skip_interfaces param in network_status.py (#1664 <https://github.com/jsk-ros-pkg/jsk_common/issues/1664>)
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ 172383400421513d8055e2f7a37d6aacca930fcb 724332 ros-one-jsk-network-tools-dbgsym_0-2023.04.28.00.31_amd64.ddeb
+ 5fda994214fa2eb8319ec7e3553a5aca3c5be3bd 15627 ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.buildinfo
+ 9de65aa2e0fc43e90a6417e2111dd62560ca8306 136940 ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.deb
+Checksums-Sha256:
+ 13bfeaa68debef20459b475fb1adb7723f30b87eb0cd3bc4c4dcd579682b32a5 724332 ros-one-jsk-network-tools-dbgsym_0-2023.04.28.00.31_amd64.ddeb
+ b9587ac1254d8efc2c53cce5cfe0e85c35dc99c903d4e6b510a9382a4c5d5d42 15627 ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.buildinfo
+ 5f00189e3dfb0436a17cd32b9999bb88e0f633eae559b119fc6e9531a81ea1fc 136940 ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.deb
+Files:
+ 0c90a081c90a480d1a70efaf5cfb2a48 724332 debug optional ros-one-jsk-network-tools-dbgsym_0-2023.04.28.00.31_amd64.ddeb
+ 4cef63f995f139015abe5b0276878f0d 15627 misc optional ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.buildinfo
+ 97368915c0b2819e4134fb2f485adab8 136940 misc optional ros-one-jsk-network-tools_0-2023.04.28.00.31_amd64.deb

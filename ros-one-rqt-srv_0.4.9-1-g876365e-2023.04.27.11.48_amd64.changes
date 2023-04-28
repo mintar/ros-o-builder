@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 21 Apr 2021 00:00:00 -0000
+Source: ros-one-rqt-srv
+Binary: ros-one-rqt-srv
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.9-1-g876365e-2023.04.27.11.48
+Distribution: jammy
+Urgency: high
+Maintainer: Michael Carroll <michael@openrobotics.org>
+Changed-By: Michael Carroll <michael@openrobotics.org>
+Description:
+ ros-one-rqt-srv - A Python GUI plugin for introspecting available ROS message types
+Changes:
+ ros-one-rqt-srv (0.4.9-1-g876365e-2023.04.27.11.48) jammy; urgency=high
+ .
+   * Merge pull request #6 <https://github.com/ros-visualization/rqt_srv/issues/6> from ros-visualization/sloretz-update-packagexml
+     Update package.xml maintainer
+   * Update package.xml maintainer
+   * fix shebang line for python3 (#5 <https://github.com/ros-visualization/rqt_srv/issues/5>)
+   * bump CMake minimum version to avoid CMP0048 warning
+   * autopep8 (#1 <https://github.com/ros-visualization/rqt_srv/issues/1>)
+   * Contributors: Dirk Thomas, Michael Carroll, Mikael Arguedas, Mike Lautman, Shane Loretz
+Checksums-Sha1:
+ c71c03e0bea7668ce28472a25f4fe8a866478194 7742 ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.buildinfo
+ 784ef5f1bb14bf4718efb242bb0e0a0eace6c1f2 8818 ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.deb
+Checksums-Sha256:
+ 6ea436c54afcd0dca174aa5c264c2c774d31db8856cbba58af2bd4d0e29bb33b 7742 ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.buildinfo
+ 4e9647ae44a3f29ecdb52a431d9b97b5719668f7b05625099d7407e1d5cc69ee 8818 ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.deb
+Files:
+ 89ffdd882435311852f1a0a0010fc0c1 7742 misc optional ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.buildinfo
+ 7d57da796cae41a4f560fe705a00b28f 8818 misc optional ros-one-rqt-srv_0.4.9-1-g876365e-2023.04.27.11.48_amd64.deb

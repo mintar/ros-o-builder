@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 31 Jan 2023 00:00:00 -0000
+Source: ros-one-force-torque-sensor-controller
+Binary: ros-one-force-torque-sensor-controller
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.21.1-1-gdce8785-2023.04.27.15.21
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-force-torque-sensor-controller - Controller to publish state of force-torque sensors
+Changes:
+ ros-one-force-torque-sensor-controller (0.21.1-1-gdce8785-2023.04.27.15.21) jammy; urgency=high
+ .
+   * Don't hardcode plugin library path
+   * Contributors: Jochen Sprickerhof
+Checksums-Sha1:
+ 6c17b24cc30b5eb9858aede66deb57631880d4e2 543740 ros-one-force-torque-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.ddeb
+ 88431bff97bc5c5d5b2a39245d2f3c86c6195956 14605 ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.buildinfo
+ 0207f5073881472e1468eed8edb4e38faa47ca9c 44048 ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.deb
+Checksums-Sha256:
+ 26da5ba219e8c2af5b662b3ad2d76afbc0766e6513fcd92e5ad1d2951cc6108f 543740 ros-one-force-torque-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.ddeb
+ 4e0e966387a280c3fc456624bb9181c777a06614b862edc0003202ff00ecf498 14605 ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.buildinfo
+ 332fad18a8aac881f1a6da203aac4928da0be6957b121237487227738c049637 44048 ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.deb
+Files:
+ c2bb43654c528870c8596b8fa7d0ae7e 543740 debug optional ros-one-force-torque-sensor-controller-dbgsym_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.ddeb
+ f5bdbf2f6e8fb0b0fca23601938f305a 14605 misc optional ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.buildinfo
+ e9278c0265fb4d999366dc1997e24c40 44048 misc optional ros-one-force-torque-sensor-controller_0.21.1-1-gdce8785-2023.04.27.15.21_amd64.deb

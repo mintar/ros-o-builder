@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 11 Jan 2021 00:00:00 -0000
+Source: ros-one-actionlib-msgs
+Binary: ros-one-actionlib-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.13.1-2023.04.27.08.33
+Distribution: jammy
+Urgency: high
+Maintainer: Michel Hidalgo <michel@ekumenlabs.com>
+Changed-By: Michel Hidalgo <michel@ekumenlabs.com>
+Description:
+ ros-one-actionlib-msgs - actionlib_msgs defines the common messages to interact with an ac
+Changes:
+ ros-one-actionlib-msgs (1.13.1-2023.04.27.08.33) jammy; urgency=high
+ .
+   * Update package maintainers (#168 <https://github.com/ros/common_msgs/issues/168>)
+   * Contributors: Michel Hidalgo
+Checksums-Sha1:
+ 81763190c2503c0f96d85c6fe12ede5e678f5983 9358 ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.buildinfo
+ 5d768f5292c44b798da876c4684be442a101c553 27668 ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.deb
+Checksums-Sha256:
+ ced54dbe32333849d9a428c8388ba8fd7ff28a626235086a670703a4cd04913a 9358 ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.buildinfo
+ f79879c4ee70c09ff8cc04372b7b737e25c0698c7e031fa569b6c7553ae55f76 27668 ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.deb
+Files:
+ 18dc92a91aafb92c4220c837bdf983ad 9358 misc optional ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.buildinfo
+ aaaf44f5173a770758bc28b3d72acdc7 27668 misc optional ros-one-actionlib-msgs_1.13.1-2023.04.27.08.33_amd64.deb

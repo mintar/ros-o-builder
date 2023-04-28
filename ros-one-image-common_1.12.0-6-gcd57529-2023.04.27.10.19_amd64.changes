@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Fri, 03 Apr 2020 00:00:00 -0000
+Source: ros-one-image-common
+Binary: ros-one-image-common
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.12.0-6-gcd57529-2023.04.27.10.19
+Distribution: jammy
+Urgency: high
+Maintainer: Jack O'Quin <jack.oquin@gmail.com>
+Changed-By: Jack O'Quin <jack.oquin@gmail.com>
+Description:
+ ros-one-image-common - Common code for working with images in ROS.
+Changes:
+ ros-one-image-common (1.12.0-6-gcd57529-2023.04.27.10.19) jammy; urgency=high
+ .
+   * Noetic release image_common (#155 <https://github.com/ros-perception/image_common/issues/155>)
+   * Contributors: Alejandro Hernández Cordero
+Checksums-Sha1:
+ c7c83a58930ddfd698c49d1ffb87b5ca3b3440ff 7771 ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.buildinfo
+ 7dfd4c0004af93a47b30859364d67b3282390fb0 2300 ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.deb
+Checksums-Sha256:
+ 3b71ebd3a298277e25d32f9b1ea97cfd258a3864c34ef123f388292d6f50ba4e 7771 ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.buildinfo
+ 0bf6d5030b4efd75ce111c4777e9af9ebbb7fa3d7c844662c261184fc4716139 2300 ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.deb
+Files:
+ bc8365b34000afb6e1657d75a3bb756c 7771 misc optional ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.buildinfo
+ a1b87ab56c71ee3869f088f68b9f3d71 2300 misc optional ros-one-image-common_1.12.0-6-gcd57529-2023.04.27.10.19_amd64.deb

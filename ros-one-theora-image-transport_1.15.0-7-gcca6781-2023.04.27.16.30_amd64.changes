@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 30 Jan 2023 00:00:00 -0000
+Source: ros-one-theora-image-transport
+Binary: ros-one-theora-image-transport
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.15.0-7-gcca6781-2023.04.27.16.30
+Distribution: jammy
+Urgency: high
+Maintainer: Kenji Brameld <kenjibrameld@gmail.com>
+Changed-By: Kenji Brameld <kenjibrameld@gmail.com>
+Description:
+ ros-one-theora-image-transport - Theora_image_transport provides a plugin to image_transport for t
+Changes:
+ ros-one-theora-image-transport (1.15.0-7-gcca6781-2023.04.27.16.30) jammy; urgency=high
+ .
+   * Update maintainer in ros1 branches (#132 <https://github.com/ros-perception/image_transport_plugins/issues/132>)
+   * Fix copyright year 20012 -> 2012 (#80 <https://github.com/ros-perception/image_transport_plugins/issues/80>)
+   * Contributors: Kenji Brameld, Lucas Walter, Michael Carroll, ijnek, v4hn
+Checksums-Sha1:
+ f301b222e531962b9d12ef84e6ab2e564a06797a 1827248 ros-one-theora-image-transport-dbgsym_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.ddeb
+ bf949b72c24458c92c199f5e8135269e57749d19 29793 ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.buildinfo
+ f54d268fc11614f3b9041009bf29ea0831abf0ee 124352 ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.deb
+Checksums-Sha256:
+ 3b49752fd7dda18cd9c51dd832546616c16bedaf4d463c80433e12efac727074 1827248 ros-one-theora-image-transport-dbgsym_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.ddeb
+ d4822092991922ab67ec0eac1ed83b80c6584c616b4f1f71902f925cfbe87924 29793 ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.buildinfo
+ 8619a4285018634438658f53ba5f948da7f383d392f19c01aac13540010b780b 124352 ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.deb
+Files:
+ f6c353fa59e53b8bee91fa9ad08a29d7 1827248 debug optional ros-one-theora-image-transport-dbgsym_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.ddeb
+ 494bc0083a16cd71a0ae235b577dd3d7 29793 misc optional ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.buildinfo
+ fe59ef0f4a395d7574fbec076cfb9ceb 124352 misc optional ros-one-theora-image-transport_1.15.0-7-gcca6781-2023.04.27.16.30_amd64.deb

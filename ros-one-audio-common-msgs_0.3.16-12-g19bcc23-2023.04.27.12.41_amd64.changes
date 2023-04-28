@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 23 Dec 2022 00:00:00 -0000
+Source: ros-one-audio-common-msgs
+Binary: ros-one-audio-common-msgs
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.3.16-12-g19bcc23-2023.04.27.12.41
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-common-msgs - Messages for transmitting audio via ROS
+Changes:
+ ros-one-audio-common-msgs (0.3.16-12-g19bcc23-2023.04.27.12.41) jammy; urgency=high
+ .
+   * Merge pull request #202 <https://github.com/ros-drivers/audio_common/issues/202> from knorth55/audio-stamped-msg
+   * add AudioDataStamped.msg
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ 7d844980b065f95c8bc4393524caf443f5c6bee4 9421 ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.buildinfo
+ ee51c9e8bf303c39a5a3f495c5e93b83c0f2cda1 20248 ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.deb
+Checksums-Sha256:
+ 2658984e813349fa683d90342ae8ddf6b5f283afe644db1c4bbd6da343c9f4c9 9421 ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.buildinfo
+ 27a96b3ade3d3b03238c58f6df6a74d1d631eadccc96216ec8806ffbcc2e9c6e 20248 ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.deb
+Files:
+ 42b64d26c90b23155121aa4e76964d47 9421 misc optional ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.buildinfo
+ f24d522ce5badcc9179552b637ddce38 20248 misc optional ros-one-audio-common-msgs_0.3.16-12-g19bcc23-2023.04.27.12.41_amd64.deb

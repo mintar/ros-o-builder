@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 03 Aug 2020 00:00:00 -0000
+Source: ros-one-multisense
+Binary: ros-one-multisense
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 4.0.5-44-g38f01a6-2023.04.28.01.17
+Distribution: jammy
+Urgency: high
+Maintainer: Maintained by Carnegie Robotics LLC <support@carnegierobotics.com>
+Changed-By: Maintained by Carnegie Robotics LLC <support@carnegierobotics.com>
+Description:
+ ros-one-multisense - multisense catkin driver
+Changes:
+ ros-one-multisense (4.0.5-44-g38f01a6-2023.04.28.01.17) jammy; urgency=high
+Checksums-Sha1:
+ a178abcae8e40020b8df4e292a220d37f73ff528 7761 ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.buildinfo
+ 3fb4cda32d2172369792b310293c6358d290c902 2642 ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.deb
+Checksums-Sha256:
+ 60508ca62cc671d0931d22ad96bb802e9be7bddcd31b30615fc2101e365e83c3 7761 ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.buildinfo
+ e1527600207adc80f149dbf41b8b0042e493f2b9c9a0240bcbd30b9c9d6829b0 2642 ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.deb
+Files:
+ e229788b4a7d614c1cec9f1c85cd74e1 7761 misc optional ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.buildinfo
+ 28b6200aa42067f0a158933b7c85235a 2642 misc optional ros-one-multisense_4.0.5-44-g38f01a6-2023.04.28.01.17_amd64.deb

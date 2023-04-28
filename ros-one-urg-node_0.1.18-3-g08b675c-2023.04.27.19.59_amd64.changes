@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 29 Sep 2022 00:00:00 -0000
+Source: ros-one-urg-node
+Binary: ros-one-urg-node
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.1.18-3-g08b675c-2023.04.27.19.59
+Distribution: jammy
+Urgency: high
+Maintainer: Tony Baltovski <tony.baltovski@gmail.com>
+Changed-By: Tony Baltovski <tony.baltovski@gmail.com>
+Description:
+ ros-one-urg-node - urg_node
+Changes:
+ ros-one-urg-node (0.1.18-3-g08b675c-2023.04.27.19.59) jammy; urgency=high
+ .
+   * Encode sent msg to bytes object when comparing with returned msg bytes object from socket; ensures compatability with Python 2 and Python 3; add comments.
+   * Install Python helper script using catkin_install_python() so the correct Python version is selected automatically; ensure socket sends message as byte object for Python3, while ensuring backwards compatability with Python2.
+   * Contributors: Joey Yang
+Checksums-Sha1:
+ dc78301b074765964bcbb5d70bc7c889ea214e80 2293340 ros-one-urg-node-dbgsym_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.ddeb
+ f5587936cb6938561aedc745080990c52d023423 18248 ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.buildinfo
+ 5963455b39c220111df23be89cc3927de91823e9 221706 ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.deb
+Checksums-Sha256:
+ 692409c4fc34114ce126c0a4bdef222976233f77a3b53b253b0d235a485e069d 2293340 ros-one-urg-node-dbgsym_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.ddeb
+ 44837e13c372232d9fe7af1a622426ebe5b7fbab8a37c6213b73dfe570d796ed 18248 ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.buildinfo
+ cce725574f00e62291456bcdec2aaff2651177e2bcd1b05ac42bd7d0f058e598 221706 ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.deb
+Files:
+ ba298ceacc64f33e36ebba6bab770456 2293340 debug optional ros-one-urg-node-dbgsym_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.ddeb
+ a04880e5bdd146868b383ef80b389e50 18248 misc optional ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.buildinfo
+ aed176e5b6dae7e558a08aa963c78ec4 221706 misc optional ros-one-urg-node_0.1.18-3-g08b675c-2023.04.27.19.59_amd64.deb

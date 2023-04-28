@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-pr2-head-action
+Binary: ros-one-pr2-head-action
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2023.04.27.18.23
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-head-action - The PR2 head action is a node that provides an action interface f
+Changes:
+ ros-one-pr2-head-action (1.10.18-3-g8e8dfa0-2023.04.27.18.23) jammy; urgency=high
+ .
+   * Fix for noetic (#401 <https://github.com/PR2/pr2_controllers/issues/401>)
+ .
+       * install liborocos for noetic
+       * conver to package 3
+ .
+   * Contributors: Kei Okada
+Checksums-Sha1:
+ 21de953a6b22920b9c7980bf8ec187dd4ebe565e 1177070 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.ddeb
+ 54ea59555279dec83e0626d3efe35357dea2d52a 18700 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.buildinfo
+ 820ababd6dbb877c150e6182fc3a4f6e585bad94 94220 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.deb
+Checksums-Sha256:
+ d69c352fed372ae3e8847cb0310e79b9f8e2d146b719a400f96f4167ed6601da 1177070 ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.ddeb
+ 4b8fa33ef0f600b53c4d61b83d4f7a4e90af792316f7f92ef741d1dab77d9387 18700 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.buildinfo
+ f07dd5ac1b079f3e247cb69bf4fa89ad1815787fd1ff02502fdca6144945558d 94220 ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.deb
+Files:
+ 1f1f5a0231945032f0ae889f952ee427 1177070 debug optional ros-one-pr2-head-action-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.ddeb
+ f60a389a10aed16f6d35dd1199a85a96 18700 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.buildinfo
+ 53d2b0b393004af9ae5d0dca17f44966 94220 misc optional ros-one-pr2-head-action_1.10.18-3-g8e8dfa0-2023.04.27.18.23_amd64.deb

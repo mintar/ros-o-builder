@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 03 Mar 2020 00:00:00 -0000
+Source: ros-one-gencpp
+Binary: ros-one-gencpp
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.6.5-2-g3fd0253-2023.04.27.07.54
+Distribution: jammy
+Urgency: high
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Changed-By: Dirk Thomas <dthomas@osrfoundation.org>
+Description:
+ ros-one-gencpp - C++ ROS message and service generators.
+Changes:
+ ros-one-gencpp (0.6.5-2-g3fd0253-2023.04.27.07.54) jammy; urgency=high
+ .
+   * add operator== & operator!= to message generation (#41 <https://github.com/ros/gencpp/issues/41>)
+Checksums-Sha1:
+ b16c0c442caa19640c9dc068a389d762b4a4a8c1 7796 ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.buildinfo
+ 49fbdf1799ac540a2dd8446790fbd391eaf0907e 15614 ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.deb
+Checksums-Sha256:
+ 5717e6e8f6850a122d2eae39b0c9363f3c0213de9af09b32a3657e435f7c91a1 7796 ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.buildinfo
+ 7df8d30de98027279a2054694b23138cf632660b2b15e6c47833cec0ba0aabe8 15614 ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.deb
+Files:
+ 49bf5f8794d8af98bbcd873c95f62638 7796 misc optional ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.buildinfo
+ d5987b7109aeb68c053b53c3260ae56a 15614 misc optional ros-one-gencpp_0.6.5-2-g3fd0253-2023.04.27.07.54_amd64.deb

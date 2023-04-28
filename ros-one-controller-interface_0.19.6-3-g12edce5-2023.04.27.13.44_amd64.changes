@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Fri, 21 Oct 2022 00:00:00 -0000
+Source: ros-one-controller-interface
+Binary: ros-one-controller-interface
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.19.6-3-g12edce5-2023.04.27.13.44
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-controller-interface - Interface base class for controllers.
+Changes:
+ ros-one-controller-interface (0.19.6-3-g12edce5-2023.04.27.13.44) jammy; urgency=high
+Checksums-Sha1:
+ b21e77b8627c4980da570ed7670658305fa6ab33 10582 ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.buildinfo
+ 747f895b554e07f9719f08a7ea4efa96dd93f872 14506 ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.deb
+Checksums-Sha256:
+ 8df11cf3259bf41d54a322858377c5362fed246416acd3086b89b85ac25edd0e 10582 ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.buildinfo
+ 72c2f9977b76bed359230b5249578b9b5d7032a859bcddd8b257cf6d60f0e7dd 14506 ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.deb
+Files:
+ 5e3d21e78825b7bd7feb4bef0926ae96 10582 misc optional ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.buildinfo
+ 161abd6b0876ad24b24a299f0f634e3b 14506 misc optional ros-one-controller-interface_0.19.6-3-g12edce5-2023.04.27.13.44_amd64.deb

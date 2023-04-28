@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Tue, 09 Mar 2021 00:00:00 -0000
+Source: ros-one-cartographer
+Binary: ros-one-cartographer
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.0.0-11-gef00de2-2023.04.27.20.21
+Distribution: jammy
+Urgency: high
+Maintainer: The Cartographer Authors <cartographer-owners@googlegroups.com>
+Changed-By: The Cartographer Authors <cartographer-owners@googlegroups.com>
+Description:
+ ros-one-cartographer - Cartographer is a system that provides real-time simultaneous loc
+Changes:
+ ros-one-cartographer (2.0.0-11-gef00de2-2023.04.27.20.21) jammy; urgency=high
+ .
+   https://github.com/cartographer-project/cartographer/compare/1.0.0...2.0.0
+Checksums-Sha1:
+ d8761efe38d2f5dc17cd55ec125b57fe707f351c 33044912 ros-one-cartographer-dbgsym_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.ddeb
+ b1d98bbbcd0c9db81174696146d9c475f4771138 13012 ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.buildinfo
+ 022dc29b9580dc1a69376e6ba95902e2f2de6dc3 1944858 ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.deb
+Checksums-Sha256:
+ ea1e1c8032cebb986b4a0a0225cc674b8067f9763a2ec5f52b8d809318035b57 33044912 ros-one-cartographer-dbgsym_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.ddeb
+ fd003e8a1fb4d38a988323437cca7697db35e07a707ab6f56633a08b89f8ca5c 13012 ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.buildinfo
+ fa3c95dabcd191591a83b4144dfe3e2dd181b2f80d8c8174f0a0d5f5f3093490 1944858 ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.deb
+Files:
+ 3497642fc5498480acb802a54e9b73b3 33044912 debug optional ros-one-cartographer-dbgsym_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.ddeb
+ f09e1aa0f2c14d8e60733e95a8178538 13012 misc optional ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.buildinfo
+ a39c3d0c61f61e90f2822b17408544b8 1944858 misc optional ros-one-cartographer_2.0.0-11-gef00de2-2023.04.27.20.21_amd64.deb

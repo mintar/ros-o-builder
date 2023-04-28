@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 08 May 2021 00:00:00 -0000
+Source: ros-one-ethercat-trigger-controllers
+Binary: ros-one-ethercat-trigger-controllers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.10.18-3-g8e8dfa0-2023.04.27.18.34
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-ethercat-trigger-controllers - Controllers to operate the digital output of the motor controller
+Changes:
+ ros-one-ethercat-trigger-controllers (1.10.18-3-g8e8dfa0-2023.04.27.18.34) jammy; urgency=high
+Checksums-Sha1:
+ cadf3fc772e6f6a5b0697ccee3b90dea47f9e23b 1546010 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.ddeb
+ 3d7435b9ee0f2bff4a0a40490c8c427b0220e3dd 15551 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.buildinfo
+ 8be75d29f1db6ee45d7637ba306d69ce6dc8cf62 107240 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.deb
+Checksums-Sha256:
+ 66da2f140f01d5e5a483a959f7f4bd9493827cc047dfa36f4f7190bc37dd4760 1546010 ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.ddeb
+ ea149c2142853e0d3df72110fd98686a482c3d47a73b210a17d18caedfa82c4d 15551 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.buildinfo
+ cbfa3c586bfbf2d64beb12bd0ed5e6b17a5cc0649755d38c53c9b26bc70410dc 107240 ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.deb
+Files:
+ 4c0594a5390baac107f293782619903f 1546010 debug optional ros-one-ethercat-trigger-controllers-dbgsym_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.ddeb
+ e5a2e1207d7db325598135610a6efb77 15551 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.buildinfo
+ 98819bb6658a0f1cad9bf54044e0ad9b 107240 misc optional ros-one-ethercat-trigger-controllers_1.10.18-3-g8e8dfa0-2023.04.27.18.34_amd64.deb

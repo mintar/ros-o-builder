@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Sun, 23 May 2021 00:00:00 -0000
+Source: ros-one-teleop-tools
+Binary: ros-one-teleop-tools
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.1-2023.04.27.22.37
+Distribution: jammy
+Urgency: high
+Maintainer: Bence Magyar <bence.magyar.robotics@gmail.com>
+Changed-By: Bence Magyar <bence.magyar.robotics@gmail.com>
+Description:
+ ros-one-teleop-tools - A set of generic teleoperation tools for any robot.
+Changes:
+ ros-one-teleop-tools (0.4.1-2023.04.27.22.37) jammy; urgency=high
+Checksums-Sha1:
+ 1d61b3a79af2b29d58f74e6588617e67ae4b78dc 7723 ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.buildinfo
+ 411905e81b45bd6ed4f6318d1850c0e6448bc17e 1778 ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.deb
+Checksums-Sha256:
+ 94534ae2f54607042c6d0d2a9d891d3de833e377a1d1277a766bf6891e28461c 7723 ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.buildinfo
+ e4a0c6ccb3ce7b264f6fd88a8ba7a401733806a1ae0f1c4a065c2074d99f55d2 1778 ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.deb
+Files:
+ 037c2491f3bbef47e136ebf9d866126c 7723 misc optional ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.buildinfo
+ aa02f5c17e312eeafb68e03c0edc0189 1778 misc optional ros-one-teleop-tools_0.4.1-2023.04.27.22.37_amd64.deb

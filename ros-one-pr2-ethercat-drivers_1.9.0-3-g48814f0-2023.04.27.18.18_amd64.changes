@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Wed, 03 Mar 2021 00:00:00 -0000
+Source: ros-one-pr2-ethercat-drivers
+Binary: ros-one-pr2-ethercat-drivers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.9.0-3-g48814f0-2023.04.27.18.18
+Distribution: jammy
+Urgency: high
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Changed-By: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Description:
+ ros-one-pr2-ethercat-drivers - This stack contains drivers for the ethercat system and the perip
+Changes:
+ ros-one-pr2-ethercat-drivers (1.9.0-3-g48814f0-2023.04.27.18.18) jammy; urgency=high
+Checksums-Sha1:
+ 2936d411ea751865bf3373f8efb5c31a8dfae6e8 7807 ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.buildinfo
+ aeb62dd44df0d5908374959043073f5f04d24f98 1984 ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.deb
+Checksums-Sha256:
+ 3486808125ed26050aa58b97370a72b4716bf767da529cb295e0c98ebc3119ca 7807 ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.buildinfo
+ 195f58fe504978bab27075318783b514cbe304cdf8c6842dcdb221ead460102c 1984 ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.deb
+Files:
+ 1fb39596bd2772b66e063859836c222f 7807 misc optional ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.buildinfo
+ 3ce0c91c8117b7fa66861ae3633dca41 1984 misc optional ros-one-pr2-ethercat-drivers_1.9.0-3-g48814f0-2023.04.27.18.18_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Tue, 11 Oct 2022 00:00:00 -0000
+Source: ros-one-geometry2
+Binary: ros-one-geometry2
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.7.6-3-gbfcd606-2023.04.27.08.03
+Distribution: jammy
+Urgency: high
+Maintainer: Tully Foote <tfoote@osrfoundation.org>
+Changed-By: Tully Foote <tfoote@osrfoundation.org>
+Description:
+ ros-one-geometry2 - A metapackage to bring in the default packages second generation
+Changes:
+ ros-one-geometry2 (0.7.6-3-gbfcd606-2023.04.27.08.03) jammy; urgency=high
+Checksums-Sha1:
+ ef7a9cfd95ce60f1a18eca9cb0e339fb7f8cf6dd 7752 ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.buildinfo
+ 7c553d7f16786d62f36049e65344edb786a92ed2 1912 ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.deb
+Checksums-Sha256:
+ 3b147f7f514945a4610ab36e81a80f86292717dedf516403ce2fd190176db669 7752 ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.buildinfo
+ 57de83a1fcb9dbd9d3819834fd9eeb564d1d55b3f002e79ffccc649cfbeac5ff 1912 ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.deb
+Files:
+ e0dabe4aaf38bbcd9abd4bd43db18d47 7752 misc optional ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.buildinfo
+ 3a43c7b7e72df592f7d85cc5a388b32f 1912 misc optional ros-one-geometry2_0.7.6-3-gbfcd606-2023.04.27.08.03_amd64.deb

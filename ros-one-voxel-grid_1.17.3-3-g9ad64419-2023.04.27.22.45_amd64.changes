@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 10 Jan 2023 00:00:00 -0000
+Source: ros-one-voxel-grid
+Binary: ros-one-voxel-grid
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.17.3-3-g9ad64419-2023.04.27.22.45
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-one-voxel-grid - voxel_grid provides an implementation of an efficient 3D voxel gr
+Changes:
+ ros-one-voxel-grid (1.17.3-3-g9ad64419-2023.04.27.22.45) jammy; urgency=high
+Checksums-Sha1:
+ 5d45d5c0f3480d022d609d71188f7b7de0299bbb 54308 ros-one-voxel-grid-dbgsym_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.ddeb
+ ebf6bba5be7d27461ff0a0c13b4c9d58a7314f6a 11933 ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.buildinfo
+ 4926729ef298c478ff6230709a16d50d434e8750 17150 ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.deb
+Checksums-Sha256:
+ f84e2fa6e1cf7309625088e61c6286c6066e916f18c932c58e64e33e636e7cfd 54308 ros-one-voxel-grid-dbgsym_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.ddeb
+ 08c4efb4d60cee8492b175de906153a65772a47a39e9ee8010ed54f8a341fc5a 11933 ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.buildinfo
+ 1406f4ca76936e9d4fa53bea5a72b8820aef6a4f4c85e22eb13a77e8872c6ce4 17150 ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.deb
+Files:
+ 63678ed0a427bd640f82f80ec1edd6e9 54308 debug optional ros-one-voxel-grid-dbgsym_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.ddeb
+ bfa5333f9efa166b690666cbbf12d1da 11933 misc optional ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.buildinfo
+ e629eb1e291f0b20ed2d0dad0ea491d5 17150 misc optional ros-one-voxel-grid_1.17.3-3-g9ad64419-2023.04.27.22.45_amd64.deb

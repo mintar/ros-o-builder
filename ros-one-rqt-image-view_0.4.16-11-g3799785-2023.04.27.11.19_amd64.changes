@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 07 Aug 2020 00:00:00 -0000
+Source: ros-one-rqt-image-view
+Binary: ros-one-rqt-image-view
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.4.16-11-g3799785-2023.04.27.11.19
+Distribution: jammy
+Urgency: high
+Maintainer: William Woodall <william@openrobotics.org>
+Changed-By: William Woodall <william@openrobotics.org>
+Description:
+ ros-one-rqt-image-view - rqt_image_view provides a GUI plugin for displaying images using
+Changes:
+ ros-one-rqt-image-view (0.4.16-11-g3799785-2023.04.27.11.19) jammy; urgency=high
+ .
+   * fix segfault on topic change (#40 <https://github.com/ros-visualization/rqt_image_view/issues/40>)
+Checksums-Sha1:
+ a469715ba0692a2e39b0d7227406dbe0fc0ef887 1280238 ros-one-rqt-image-view-dbgsym_0.4.16-11-g3799785-2023.04.27.11.19_amd64.ddeb
+ 3f6f85c4005dfcd4f86787f66c1f94eff41294a3 31661 ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.buildinfo
+ 4d8f5a64f3085e5923e7f9500f22edf00763afa1 55462 ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.deb
+Checksums-Sha256:
+ 30b4cc4de7a114cf35c2bc7b4dbee9bad082bbf6fbef4dcf80d21c054ba34b24 1280238 ros-one-rqt-image-view-dbgsym_0.4.16-11-g3799785-2023.04.27.11.19_amd64.ddeb
+ 77bafc8498b2715b1efec4e7c7713739842ad453dfa0c01c37a4aea324f5ae92 31661 ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.buildinfo
+ f67645e3c5333aeb3eabb9f169fd96af573a00bdee65e9574623cbc3d9d7c362 55462 ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.deb
+Files:
+ 3eb4f4fc40ebc0b6020d16a39b821e6c 1280238 debug optional ros-one-rqt-image-view-dbgsym_0.4.16-11-g3799785-2023.04.27.11.19_amd64.ddeb
+ c5c20a00df39d0884e50b00ed61bf416 31661 misc optional ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.buildinfo
+ 53fbea1a1099c4c17d9b8943c29153ad 55462 misc optional ros-one-rqt-image-view_0.4.16-11-g3799785-2023.04.27.11.19_amd64.deb

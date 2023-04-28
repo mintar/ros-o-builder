@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 11 May 2021 00:00:00 -0000
+Source: ros-one-calibration
+Binary: ros-one-calibration
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.10.15-1-g414bad2-2023.04.27.17.10
+Distribution: jammy
+Urgency: high
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Changed-By: David Feil-Seifer <david.feilseifer@gmail.com>
+Description:
+ ros-one-calibration - Provides a toolchain running through the robot calibration proces
+Changes:
+ ros-one-calibration (0.10.15-1-g414bad2-2023.04.27.17.10) jammy; urgency=high
+ .
+   * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+   * Contributors: Dave Feil-Seifer
+Checksums-Sha1:
+ faae00a9346304f29f1851cefc251e2c0653d5de 7770 ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.buildinfo
+ 6001d01d2f8f763651df2eea2d3f7d7120411d0f 1892 ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.deb
+Checksums-Sha256:
+ 6f3ce24144f63767b26fd8ac2b293e92fe1a91bd3b76a59ee4e6133fcc3dfbde 7770 ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.buildinfo
+ d48c03d092469e6dc7b1e3c6b8e4cd3aa1d5fb79b22f5ae730d8aa033f9dba4b 1892 ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.deb
+Files:
+ 16c1f43932f9d285843df7814b784881 7770 misc optional ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.buildinfo
+ 1d887ec56913a5c1233cd9f12ab0c9ce 1892 misc optional ros-one-calibration_0.10.15-1-g414bad2-2023.04.27.17.10_amd64.deb

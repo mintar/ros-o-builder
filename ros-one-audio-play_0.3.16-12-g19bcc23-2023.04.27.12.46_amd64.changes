@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 23 Dec 2022 00:00:00 -0000
+Source: ros-one-audio-play
+Binary: ros-one-audio-play
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0.3.16-12-g19bcc23-2023.04.27.12.46
+Distribution: jammy
+Urgency: high
+Maintainer: Austin Hendrix <namniart@gmail.com>
+Changed-By: Austin Hendrix <namniart@gmail.com>
+Description:
+ ros-one-audio-play - Outputs audio to a speaker from a source node.
+Changes:
+ ros-one-audio-play (0.3.16-12-g19bcc23-2023.04.27.12.46) jammy; urgency=high
+ .
+   * Merge pull request #216 <https://github.com/ros-drivers/audio_common/issues/216> from knorth55/launch-update
+   * update play.launch
+   * Merge pull request #206 <https://github.com/ros-drivers/audio_common/issues/206> from knorth55/fix-205
+   * unref buffer in audio_play to avoid memory leak
+   * Contributors: Shingo Kitagawa
+Checksums-Sha1:
+ ba930409c6d85e1419cc715e47edc9e38460db4d 510058 ros-one-audio-play-dbgsym_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.ddeb
+ 191443de136fc7e1ea998a26b2128cd18f62e1fc 14366 ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.buildinfo
+ c1ba5a9bf652948f34e92a7b586e4f2633403c54 41850 ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.deb
+Checksums-Sha256:
+ 4178e20a8ad5b71e5f77c4ad986b4e78f8727272d18e009f10dcac8e2500eeeb 510058 ros-one-audio-play-dbgsym_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.ddeb
+ e0d15a323351da0977a4436258984848ea9f77980705fef8b6795d591bd5ddd0 14366 ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.buildinfo
+ 1968ea0823c76d65d9b80dedc8a601a254a890db6764a5973b44478f86cf1b6a 41850 ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.deb
+Files:
+ 01255b5615fe058e4042df745a32a95a 510058 debug optional ros-one-audio-play-dbgsym_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.ddeb
+ 3931de6ea49c1eab530e708089d0b8c8 14366 misc optional ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.buildinfo
+ d461627bb4c5f93716211451fe35c7d1 41850 misc optional ros-one-audio-play_0.3.16-12-g19bcc23-2023.04.27.12.46_amd64.deb
